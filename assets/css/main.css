@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h3 {
+   font-size: 25px;
+   margin: 10px 0; 
+   font-weight: bold;
+   text-transform: uppercase;
+}
+
+h4 {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+p {
+    margin: 0 0 20px 0;
+}
